@@ -29,10 +29,6 @@ function printNumbersUpToN(n) {
     }
 }
 
-function function2() {
-    console.log("this is function 2")
-}
-
 function function3() {
     console.log("this is function 3")
 }
