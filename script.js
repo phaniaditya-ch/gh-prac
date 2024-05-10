@@ -21,6 +21,14 @@ function printFirstNPrimes(n) {
     console.log(primes.join(', '));
 }
 
+//CHANGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+//this is a change in the code
+function printNumbersUpToN(n) {
+    for (let i = 1; i <= n; i++) {
+        console.log(i);
+    }
+}
+
 function function2() {
     console.log("this is function 2")
 }
