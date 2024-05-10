@@ -30,11 +30,15 @@ function printNumbersUpToN(n) {
 }
 
 function function2() {
-    console.log("this is function 2")
+    console.log("this is function dfdfdffffffffffdfdfdf2")
 }
 
 function function3() {
     console.log("this is function 3")
+}
+
+function function4() {
+    console.log("this is function 4")
 }
 
 const n = 10; // Change this to the desired number of prime numbers you want to print
