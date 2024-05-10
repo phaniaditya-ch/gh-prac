@@ -29,5 +29,9 @@ function printNumbersUpToN(n) {
     }
 }
 
+function function2() {
+    console.log("this is function 2")
+}
+
 const n = 10; // Change this to the desired number of prime numbers you want to print
 printFirstNPrimes(n);
