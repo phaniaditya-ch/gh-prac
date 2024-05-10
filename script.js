@@ -21,12 +21,8 @@ function printFirstNPrimes(n) {
     console.log(primes.join(', '));
 }
 
-//CHANGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-//this is a change
-function printNumbersUpToN(n) {
-    for (let i = 1; i <= n; i++) {
-        console.log(i);
-    }
+function function2() {
+    console.log("this is function 2")
 }
 
 const n = 10; // Change this to the desired number of prime numbers you want to print
